@@ -1,4 +1,4 @@
-👋 Olá, eu sou [Seu Nome]!
+👋 Olá, eu sou Guilherme!
 
 💻 Desenvolvedor Python | 📊 Cientista de Dados & Machine Learning | 📈 Analista de BI
 
